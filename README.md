@@ -9,7 +9,7 @@ Welcome to the **Unity Fishnet Multiplayer P2P Template** repository! This templ
 - 🎯 **Peer-to-Peer Networking**: No dedicated server needed—host and play simultaneously!
 - 🐟 **Fishnet Framework**: Built with the reliable Fishnet networking solution.
 - 🎨 **Easy Customization**: Extend and modify for your specific project requirements.
-- ⚡ **Working main menu and scene changer to change into your specific game with a player model and HP script.
+- ⚡ **Premade Lobby and Game Scene** Working main menu and scene changer to change into your specific game with a player model and HP script.
 
 ---
 
